@@ -1,0 +1,8 @@
+./Resources
+Resources
+*.out
+*.log
+*.aux
+*.synctex.gz
+*.sty
+*.tex
